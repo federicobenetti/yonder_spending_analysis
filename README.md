@@ -11,4 +11,4 @@ A simple Streamlit app to analyze and visualize personal spending data from cred
 ## Usage
 ```bash
 pip install -r requirements.txt
-streamlit run app.py
+python -m streamlit run app.py
