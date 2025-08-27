@@ -48,8 +48,8 @@ it robust and easy to run anywhere.
 Clone this repo and install dependencies:
 
 ``` bash
-git clone https://github.com/<your-username>/personal-spending-dashboard.git
-cd personal-spending-dashboard
+git clone https://github.com/<your-username>/yonder_spending_analysis.git
+cd yonder_spending_analysis
 pip install -r requirements.txt
 ```
 
