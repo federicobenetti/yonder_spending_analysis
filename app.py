@@ -4,6 +4,7 @@ Personal Spending — Streamlit built-in charts version
 - Strong KPIs and practical insights
 - Built-in charts only (st.line_chart / st.bar_chart / st.area_chart)
 """
+#TODO: review charts 
 
 from __future__ import annotations
 import streamlit as st
